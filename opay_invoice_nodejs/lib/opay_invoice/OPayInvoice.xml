@@ -2,8 +2,8 @@
 <allPayInvoice>
   <InvoiceIssue>
     <ServiceAddress>
-        <url type="Production">https://einvoice.allpay.com.tw/Invoice/Issue</url>
-        <url type="Test">https://einvoice-stage.allpay.com.tw/Invoice/Issue</url>
+        <url type="Production">https://einvoice.opay.tw/Invoice/Issue</url>
+        <url type="Test">https://einvoice-stage.opay.tw/Invoice/Issue</url>
     </ServiceAddress>
     <Config>
         <switchparam>
@@ -110,8 +110,8 @@
   </InvoiceIssue>
   <InvoiceDelayIssue>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Invoice/DelayIssue</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Invoice/DelayIssue</url>
+      <url type="Production">https://einvoice.opay.tw/Invoice/DelayIssue</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Invoice/DelayIssue</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -230,8 +230,8 @@
   </InvoiceDelayIssue>
   <InvoiceTriggerIssue>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Invoice/TriggerIssue</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Invoice/TriggerIssue</url>
+      <url type="Production">https://einvoice.opay.tw/Invoice/TriggerIssue</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Invoice/TriggerIssue</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -256,8 +256,8 @@
   </InvoiceTriggerIssue>
   <InvoiceAllowance>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Invoice/Allowance</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Invoice/Allowance</url>
+      <url type="Production">https://einvoice.opay.tw/Invoice/Allowance</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Invoice/Allowance</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -317,8 +317,8 @@
   </InvoiceAllowance>
   <InvoiceIssueInvalid>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Invoice/IssueInvalid</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Invoice/IssueInvalid</url>
+      <url type="Production">https://einvoice.opay.tw/Invoice/IssueInvalid</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Invoice/IssueInvalid</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -343,8 +343,8 @@
   </InvoiceIssueInvalid>
   <InvoiceAllowanceInvalid>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Invoice/AllowanceInvalid</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Invoice/AllowanceInvalid</url>
+      <url type="Production">https://einvoice.opay.tw/Invoice/AllowanceInvalid</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Invoice/AllowanceInvalid</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -372,8 +372,8 @@
   </InvoiceAllowanceInvalid>
   <QueryIssue>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Query/Issue</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Query/Issue</url>
+      <url type="Production">https://einvoice.opay.tw/Query/Issue</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Query/Issue</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -395,8 +395,8 @@
   </QueryIssue>
   <QueryAllowance>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Query/Allowance</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Query/Allowance</url>
+      <url type="Production">https://einvoice.opay.tw/Query/Allowance</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Query/Allowance</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -421,8 +421,8 @@
   </QueryAllowance>
   <QueryIssueInvalid>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Query/IssueInvalid</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Query/IssueInvalid</url>
+      <url type="Production">https://einvoice.opay.tw/Query/IssueInvalid</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Query/IssueInvalid</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -444,8 +444,8 @@
   </QueryIssueInvalid>
   <QueryAllowanceInvalid>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Query/AllowanceInvalid</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Query/AllowanceInvalid</url>
+      <url type="Production">https://einvoice.opay.tw/Query/AllowanceInvalid</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Query/AllowanceInvalid</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -470,8 +470,8 @@
   </QueryAllowanceInvalid>
   <CheckMobileBarCode>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Query/CheckMobileBarCode</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Query/CheckMobileBarCode</url>
+      <url type="Production">https://einvoice.opay.tw/Query/CheckMobileBarCode</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Query/CheckMobileBarCode</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -493,8 +493,8 @@
   </CheckMobileBarCode>
   <CheckLoveCode>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Query/CheckLoveCode</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Query/CheckLoveCode</url>
+      <url type="Production">https://einvoice.opay.tw/Query/CheckLoveCode</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Query/CheckLoveCode</url>
     </ServiceAddress>
     <Config>
       <switchparam>
@@ -516,8 +516,8 @@
   </CheckLoveCode>
   <InvoiceNotify>
     <ServiceAddress>
-      <url type="Production">https://einvoice.allpay.com.tw/Notify/InvoiceNotify</url>
-      <url type="Test">https://einvoice-stage.allpay.com.tw/Notify/InvoiceNotify</url>
+      <url type="Production">https://einvoice.opay.tw/Notify/InvoiceNotify</url>
+      <url type="Test">https://einvoice-stage.opay.tw/Notify/InvoiceNotify</url>
     </ServiceAddress>
     <Config>
       <switchparam>
